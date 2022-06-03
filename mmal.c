@@ -1,11 +1,3 @@
-// xfabom01
-
-/**
- * Implementace My MALloc
- * Demonstracni priklad pro 1. ukol IPS/2020
- * Ales Smrcka
- */
-
 #include "mmal.h"
 #include <sys/mman.h>   // mmap
 #include <stdbool.h>    // bool
